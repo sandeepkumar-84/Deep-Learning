@@ -6,3 +6,6 @@ Deep learning concepts and projects
    Churn prediction = binary or logistic problem
    Admission prediction = linear or regression problem 
    mnist image prediction - multiclass problem
+   Resolving the overfitting issues
+    1. Dropout layers - regression and logistic examples
+    2. 
