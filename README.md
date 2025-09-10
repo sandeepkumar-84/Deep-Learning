@@ -9,3 +9,6 @@ Deep learning concepts and projects
    Resolving the overfitting issues
     1. Dropout layers - regression and logistic examples
     2. Regularization - example
+    3. Weight initialization  - example
+         he normal for relu
+         xavier for sigmoid or tanh 
