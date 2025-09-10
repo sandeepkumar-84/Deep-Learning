@@ -8,4 +8,4 @@ Deep learning concepts and projects
    mnist image prediction - multiclass problem
    Resolving the overfitting issues
     1. Dropout layers - regression and logistic examples
-    2. 
+    2. Regularization - example
