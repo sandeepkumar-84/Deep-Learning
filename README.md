@@ -12,3 +12,6 @@ Deep learning concepts and projects
     3. Weight initialization  - example
          he normal for relu
          xavier for sigmoid or tanh 
+   4. Batch Regularization - notebook example
+   5. Optimizers - no seperate file is added
+   6. Adding Keras tuner nobook - very important- It guides how to user the tunner to get best hyperparameter values.  
