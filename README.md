@@ -15,3 +15,4 @@ Deep learning concepts and projects
    4. Batch Regularization - notebook example
    5. Optimizers - no seperate file is added
    6. Adding Keras tuner nobook - very important- It guides how to user the tunner to get best hyperparameter values.  
+   7. Added Encoding text into integers using sample data and IMDB ds 
